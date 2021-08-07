@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+        "mongodb+srv://travis:kFz2vlEjUkyWN8oX@mernapp.kxtqt.mongodb.net/MernApp?retryWrites=true&w=majority"
+}
